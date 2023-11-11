@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 📌 About Me
+
 A multifaceted Information Systems and Corporate Communication professional with an impressive educational trajectory and practical experience in software development, web design, and project management. My time at Northeastern University has equipped me with technical expertise in application modeling, design, and development, as well as a comprehensive understanding of corporate communication and project management.
 
 Having interned at HiPole.com and contributed significantly as a Web Developer for High-G Simracing, I've successfully managed teams, crafted user-centric designs, and implemented cutting-edge solutions that have bolstered brand presence and user engagement. My proactive involvement in various projects at the academic level, like the Orphan Sweet Home and the XN Project with Corecentra, further accentuates my hands-on approach and commitment to excellence.

@@ -13,7 +13,7 @@ I possess adeptness in a slew of technical languages and frameworks such as Java
 - Software Development & Web Design
 - User Experience & Interface Design
 - Project Management & Strategic Communication
-- Application Modeling & Deployment
+- Application Engineering & Development
 - Team Leadership & Collaboration
 Always keen to connect, collaborate, and contribute to projects that align with my expertise and passion for innovation. Feel free to reach out!
 

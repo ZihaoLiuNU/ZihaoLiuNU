@@ -1,21 +1,18 @@
 ### Hi there 👋
 
-📌 About Me
+I'm a Backend Software Engineer based in Boston, with a strong foundation in Java/Spring Boot and a growing focus on AI-native development.
 
-A multifaceted Information Systems and Corporate Communication professional with an impressive educational trajectory and practical experience in software development, web design, and project management. My time at Northeastern University has equipped me with technical expertise in application modeling, design, and development, as well as a comprehensive understanding of corporate communication and project management.
+Most recently, I've been teaching Application Engineering & Development at Northeastern University — reviewing code for 700+ students across 7 semesters, guiding them through domain modeling, OOP design, and building real-world Java applications. Teaching has sharpened how I think about clean architecture and engineering trade-offs in ways that pure coding wouldn't have.
 
-Having interned at HiPole.com and contributed significantly as a Web Developer for High-G Simracing, I've successfully managed teams, crafted user-centric designs, and implemented cutting-edge solutions that have bolstered brand presence and user engagement. My proactive involvement in various projects at the academic level, like the Orphan Sweet Home and the XN Project with Corecentra, further accentuates my hands-on approach and commitment to excellence.
+On the project side, I've been building:
+• OrderStream — a microservices food ordering platform using Spring Boot, Kafka, PostgreSQL, and AWS, with a focus on event-driven architecture and distributed system design
+• NextAI — a full-stack RAG application that lets users upload PDFs and query them via natural language, built with Node.js, LangChain, and OpenAI GPT-4o, including a voice interface
 
-I possess adeptness in a slew of technical languages and frameworks such as Java, Python, React, and Node.JS, to name a few. My proficiency in database management, application deployment, and system upgrades has been time-tested and well-proven in real-world settings, ensuring seamless software operations and high user satisfaction.
+I'm actively incorporating AI-native workflows into how I build — using Claude Code, GitHub Copilot, and Cursor not just as autocomplete tools, but as real partners in system design and debugging.
 
-📌 Specialties:
+Currently open to Junior Backend Engineer opportunities. If you're working on something interesting in the backend or AI space, I'd love to connect.
 
-- Software Development & Web Design
-- User Experience & Interface Design
-- Project Management & Strategic Communication
-- Application Engineering & Development
-- Team Leadership & Collaboration
-Always keen to connect, collaborate, and contribute to projects that align with my expertise and passion for innovation. Feel free to reach out!
+Based in Boston, MA | Open to on-site/hybrid/remote roles | Open to relocation within USA
 
 <!--
 **ZihaoLiuNU/ZihaoLiuNU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
